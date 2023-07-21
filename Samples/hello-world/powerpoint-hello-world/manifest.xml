@@ -19,7 +19,7 @@
     <Host Name="Presentation"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/powerpoint-hello-world/taskpane.html"/>
+    <SourceLocation DefaultValue="https://github.com/AdamKane/Office-Add-in-samples/blob/main/Samples/hello-world/powerpoint-hello-world/manifest.xml"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
